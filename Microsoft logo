@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Microsoft logo</title>
+    <style>
+        /*body{
+            display: flex;
+        }*/
+        .main{
+            width: 90px;
+            height: 90px;
+            background-color: #f34f13;
+            box-shadow: 100px 0 #7fbc00,0 100px #01a6f0,100px 100px #ffba01;
+
+
+        }
+        body{
+            margin: 100px 150px;
+            padding-left: 200px;
+        
+
+        }
+        /*.a{
+            background-color: red;
+            
+        }
+        .b{
+            background-color: greenyellow;
+        }
+        .c{
+            background-color: rgb(0, 208, 255);
+        }
+        .d{
+            background-color: yellow;
+        }*/
+    </style>
+</head>
+<body>
+    <div class="main">
+        <!-- 
+             <div class="a"></div>
+        <div class="b"></div>
+        <div class="c "></div>
+        <div class="d"></div>
+         -->
+       
+    </div>
+    
+</body>
+</html>
